@@ -1,5 +1,7 @@
 ### Dataset
-```kaggle datasets download -d trolukovich/apparel-images-dataset```
+```
+kaggle datasets download -d trolukovich/apparel-images-dataset
+```
 
 ### Results
 **Test Evaluation**
