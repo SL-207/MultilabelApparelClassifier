@@ -1,3 +1,5 @@
+# Multilabel Apparel Image Classifier
+
 ### Dataset
 ```
 kaggle datasets download -d trolukovich/apparel-images-dataset
